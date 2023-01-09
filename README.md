@@ -1,4 +1,4 @@
-# jobapp
+# Flutter : Job Search App UI
 
 A new Flutter project.
 
